@@ -1,0 +1,3 @@
+[submodule "Packages/com.andrey04o.tetr04o"]
+	path = Packages/com.andrey04o.tetr04o
+	url = git@github.com:Andrey04o/TETR04o.git
